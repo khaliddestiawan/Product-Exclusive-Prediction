@@ -51,6 +51,8 @@ Multivariate:
 
 - The analysis reveals the top 5 most expensive brands based on the average price of their products. Dyson takes the lead with an average price of `$436.50`, followed by ReFa at `$223.33`, LightStim at `$209.00`, Jillian Dempsey at `$195.00`, and NuFACE at `$184.15`.
 
+this information about business insight will be proceeded for further Dashboarding Project
+
 ## Feature Selection:
 
 ## Model Development:
